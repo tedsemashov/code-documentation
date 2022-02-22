@@ -8,4 +8,5 @@ const CellList: React.FC = () => {
     return <div>{renderedCells}</div>
 };
 
+
 export default CellList;
